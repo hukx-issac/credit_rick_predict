@@ -1,0 +1,9 @@
+#Python:
+.idea/
+*.pyc
+instance/
+data/
+data/
+.spyproject/
+*.csv
+*.zip
